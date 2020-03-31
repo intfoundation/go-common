@@ -1,7 +1,7 @@
 package test
 
 import (
-	. "github.com/tendermint/go-common"
+	. "github.com/intfoundation/go-common"
 )
 
 // Contract: !bytes.Equal(input, output) && len(input) >= len(output)
